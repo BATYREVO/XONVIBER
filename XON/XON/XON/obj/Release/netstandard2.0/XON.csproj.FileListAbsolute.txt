@@ -1,0 +1,13 @@
+C:\Users\Sony_\source\repos\XON\XON\XON\bin\Release\netstandard2.0\XON.deps.json
+C:\Users\Sony_\source\repos\XON\XON\XON\bin\Release\netstandard2.0\XON.dll
+C:\Users\Sony_\source\repos\XON\XON\XON\bin\Release\netstandard2.0\ref\XON.dll
+C:\Users\Sony_\source\repos\XON\XON\XON\bin\Release\netstandard2.0\XON.pdb
+C:\Users\Sony_\source\repos\XON\XON\XON\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\Sony_\source\repos\XON\XON\XON\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Sony_\source\repos\XON\XON\XON\obj\Release\netstandard2.0\XON.AssemblyInfoInputs.cache
+C:\Users\Sony_\source\repos\XON\XON\XON\obj\Release\netstandard2.0\XON.AssemblyInfo.cs
+C:\Users\Sony_\source\repos\XON\XON\XON\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\Sony_\source\repos\XON\XON\XON\obj\Release\netstandard2.0\XON.dll
+C:\Users\Sony_\source\repos\XON\XON\XON\obj\Release\netstandard2.0\ref\XON.dll
+C:\Users\Sony_\source\repos\XON\XON\XON\obj\Release\netstandard2.0\XON.pdb
+C:\Users\Sony_\source\repos\XON\XON\XON\obj\Release\netstandard2.0\XON.csprojAssemblyReference.cache
